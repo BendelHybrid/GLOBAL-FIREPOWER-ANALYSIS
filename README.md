@@ -36,5 +36,7 @@ Among the top 10 countries, the United States has the highest GDP.
 Remember that these recommendations are based on the analysis of available data and may require additional research and expert input to draw more concrete conclusions.
 
 # Visualizations
-![firepower 2](https://github.com/BendelHybrid/GLOBAL-FIREPOWER-ANALYSIS/assets/63473719/d1b05137-4893-4398-b19c-b120c6423611)
-![fire power 1](https://github.com/BendelHybrid/GLOBAL-FIREPOWER-ANALYSIS/assets/63473719/e7a2185e-050f-44f3-a43d-fda47b20daaa)
+![fire power 1](https://github.com/BendelHybrid/GLOBAL-FIREPOWER-ANALYSIS/assets/63473719/cd7a7ed6-d63b-4ae3-b75f-6b8f07a14b6b)
+![firepower 2](https://github.com/BendelHybrid/GLOBAL-FIREPOWER-ANALYSIS/assets/63473719/8491b2ef-ab97-4bf2-a21f-a4f758b7f458)
+
+
